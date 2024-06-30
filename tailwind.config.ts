@@ -19,7 +19,8 @@ const config = {
     },
     extend: {
       fontFamily: {
-        'means': ['means']
+        'means': ['means'],
+        'spac':['spac']
       },
       colors: {
         border: "hsl(var(--border))",

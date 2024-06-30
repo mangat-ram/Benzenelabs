@@ -1,8 +1,11 @@
 import React from "react"
+import Intro from "./_components/intro"
 
 const MainPage = () => {
   return (
-    <div>MainPage</div>
+    <div>
+      <Intro />
+    </div>
   )
 }
 

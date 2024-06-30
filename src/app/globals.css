@@ -79,3 +79,8 @@
     font-family: means;
     src: url("../../public/fonts/Means.ttf");
   }
+
+  @font-face {
+    font-family: spac;
+    src: url("../../public/fonts/SpaceGrotesk-Regular.ttf");
+  }
