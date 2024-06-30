@@ -32,16 +32,16 @@ const Intro = () => {
         </div>
       </div>
         <motion.div 
-          className="bg-white rounded-[50px] shadow-yellow-200 shadow-md"
+          className=""
           initial={{ opacity:0, y: 100 }}
           animate={{ opacity:1, y:0 }}
         >
           <Image 
-            src="/illus/header.png"
+            src="/illus/zombieing.svg"
             alt="BoyImage"
             quality={100}
-            width={350}
-            height={350}
+            width={450}
+            height={450}
           />
         </motion.div>
     </section>
